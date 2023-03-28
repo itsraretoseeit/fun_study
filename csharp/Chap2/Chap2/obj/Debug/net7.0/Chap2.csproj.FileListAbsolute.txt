@@ -1,0 +1,15 @@
+/Users/mgalazka/dev/fun_study/csharp/Chap2/Chap2/bin/Debug/net7.0/Chap2
+/Users/mgalazka/dev/fun_study/csharp/Chap2/Chap2/bin/Debug/net7.0/Chap2.deps.json
+/Users/mgalazka/dev/fun_study/csharp/Chap2/Chap2/bin/Debug/net7.0/Chap2.runtimeconfig.json
+/Users/mgalazka/dev/fun_study/csharp/Chap2/Chap2/bin/Debug/net7.0/Chap2.dll
+/Users/mgalazka/dev/fun_study/csharp/Chap2/Chap2/bin/Debug/net7.0/Chap2.pdb
+/Users/mgalazka/dev/fun_study/csharp/Chap2/Chap2/obj/Debug/net7.0/Chap2.csproj.AssemblyReference.cache
+/Users/mgalazka/dev/fun_study/csharp/Chap2/Chap2/obj/Debug/net7.0/Chap2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mgalazka/dev/fun_study/csharp/Chap2/Chap2/obj/Debug/net7.0/Chap2.AssemblyInfoInputs.cache
+/Users/mgalazka/dev/fun_study/csharp/Chap2/Chap2/obj/Debug/net7.0/Chap2.AssemblyInfo.cs
+/Users/mgalazka/dev/fun_study/csharp/Chap2/Chap2/obj/Debug/net7.0/Chap2.csproj.CoreCompileInputs.cache
+/Users/mgalazka/dev/fun_study/csharp/Chap2/Chap2/obj/Debug/net7.0/Chap2.dll
+/Users/mgalazka/dev/fun_study/csharp/Chap2/Chap2/obj/Debug/net7.0/refint/Chap2.dll
+/Users/mgalazka/dev/fun_study/csharp/Chap2/Chap2/obj/Debug/net7.0/Chap2.pdb
+/Users/mgalazka/dev/fun_study/csharp/Chap2/Chap2/obj/Debug/net7.0/Chap2.genruntimeconfig.cache
+/Users/mgalazka/dev/fun_study/csharp/Chap2/Chap2/obj/Debug/net7.0/ref/Chap2.dll

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CA660B6D-4AA9-4081-B7FA-A8C1D04AF220}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hics/Program.cs">
+    <Files>
+      <File FileName="hics/Program.cs" Line="25" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hics" expanded="True">
+            <Node name="chap01" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="hics" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.chap01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.hics PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

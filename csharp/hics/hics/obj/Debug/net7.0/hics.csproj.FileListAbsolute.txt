@@ -1,0 +1,15 @@
+/Users/mgalazka/dev/fun_study/csharp/hics/hics/bin/Debug/net7.0/hics
+/Users/mgalazka/dev/fun_study/csharp/hics/hics/bin/Debug/net7.0/hics.deps.json
+/Users/mgalazka/dev/fun_study/csharp/hics/hics/bin/Debug/net7.0/hics.runtimeconfig.json
+/Users/mgalazka/dev/fun_study/csharp/hics/hics/bin/Debug/net7.0/hics.dll
+/Users/mgalazka/dev/fun_study/csharp/hics/hics/bin/Debug/net7.0/hics.pdb
+/Users/mgalazka/dev/fun_study/csharp/hics/hics/obj/Debug/net7.0/hics.csproj.AssemblyReference.cache
+/Users/mgalazka/dev/fun_study/csharp/hics/hics/obj/Debug/net7.0/hics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mgalazka/dev/fun_study/csharp/hics/hics/obj/Debug/net7.0/hics.AssemblyInfoInputs.cache
+/Users/mgalazka/dev/fun_study/csharp/hics/hics/obj/Debug/net7.0/hics.AssemblyInfo.cs
+/Users/mgalazka/dev/fun_study/csharp/hics/hics/obj/Debug/net7.0/hics.csproj.CoreCompileInputs.cache
+/Users/mgalazka/dev/fun_study/csharp/hics/hics/obj/Debug/net7.0/hics.dll
+/Users/mgalazka/dev/fun_study/csharp/hics/hics/obj/Debug/net7.0/refint/hics.dll
+/Users/mgalazka/dev/fun_study/csharp/hics/hics/obj/Debug/net7.0/hics.pdb
+/Users/mgalazka/dev/fun_study/csharp/hics/hics/obj/Debug/net7.0/hics.genruntimeconfig.cache
+/Users/mgalazka/dev/fun_study/csharp/hics/hics/obj/Debug/net7.0/ref/hics.dll

@@ -1,0 +1,15 @@
+/Users/mgalazka/dev/fun_study/csharp/hics/chap01/bin/Debug/net7.0/chap01
+/Users/mgalazka/dev/fun_study/csharp/hics/chap01/bin/Debug/net7.0/chap01.deps.json
+/Users/mgalazka/dev/fun_study/csharp/hics/chap01/bin/Debug/net7.0/chap01.runtimeconfig.json
+/Users/mgalazka/dev/fun_study/csharp/hics/chap01/bin/Debug/net7.0/chap01.dll
+/Users/mgalazka/dev/fun_study/csharp/hics/chap01/bin/Debug/net7.0/chap01.pdb
+/Users/mgalazka/dev/fun_study/csharp/hics/chap01/obj/Debug/net7.0/chap01.csproj.AssemblyReference.cache
+/Users/mgalazka/dev/fun_study/csharp/hics/chap01/obj/Debug/net7.0/chap01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mgalazka/dev/fun_study/csharp/hics/chap01/obj/Debug/net7.0/chap01.AssemblyInfoInputs.cache
+/Users/mgalazka/dev/fun_study/csharp/hics/chap01/obj/Debug/net7.0/chap01.AssemblyInfo.cs
+/Users/mgalazka/dev/fun_study/csharp/hics/chap01/obj/Debug/net7.0/chap01.csproj.CoreCompileInputs.cache
+/Users/mgalazka/dev/fun_study/csharp/hics/chap01/obj/Debug/net7.0/chap01.dll
+/Users/mgalazka/dev/fun_study/csharp/hics/chap01/obj/Debug/net7.0/refint/chap01.dll
+/Users/mgalazka/dev/fun_study/csharp/hics/chap01/obj/Debug/net7.0/chap01.pdb
+/Users/mgalazka/dev/fun_study/csharp/hics/chap01/obj/Debug/net7.0/chap01.genruntimeconfig.cache
+/Users/mgalazka/dev/fun_study/csharp/hics/chap01/obj/Debug/net7.0/ref/chap01.dll
