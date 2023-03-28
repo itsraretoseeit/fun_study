@@ -1,35 +1,41 @@
-#include <memory>
+#include <string>
 #include <iostream>
-#include <vector>
-#include <map>
+#include <memory>
 
+class Person {
 
-std::unique_ptr<int> sum(int a, int b) {
-    return std::make_unique<int>(a+b);
+    public:
+        Person(std::string name, int age) : m_name(std::move(name)), m_age(age) {
+            std::cout << "Created person( " << m_name << ", " << m_age << ")" << std::endl;
+        }
+        ~Person() {
+            std::cout << "Destroing person( " << m_name << ", " << m_age << ")" << std::endl;
+        }
+
+        void print() {
+            std::cout << "Person\n\tname: " << m_name << "\n\tage: " << m_age << "\n";
+        }
+    private:
+        std::string m_name;
+        int m_age;
+};
+
+std::unique_ptr<Person> createPerson() {
+    std::string name;
+    int age;
+    std::cout << "Creating a person\nPlease, provide name: ";
+    std::cin >> name;
+    std::cout << "Please, provide age: ";
+    std::cin >> age;
+
+    return std::make_unique<Person>(name, age);
 }
 
 int main() {
-    int num1, num2;
-    std::vector<int> vec;    
-    std::cout << "Enter two numbers!\n";
-    std::cin >> num1;
-    std::cin >> num2;
-
-    std::unique_ptr<int> ptr = sum(num1, num2);
-
-    vec.push_back(num1);
-    vec.push_back(num2);
-
-    for (unsigned long i=0; i<vec.size(); i++){
-        std::cout << vec[i] << std::endl;
-    }
-    printf("The sum of [%d] and [%d] is [%d].\n", num1, num2, *ptr);
-
-    std::map<std::string, int> aMap = {
-        {"X", 20},
-        {"Y", 21},
-        {"Z", 23}
-    };
+    std::unique_ptr<Person> person1 = createPerson();
+    std::unique_ptr<Person> person2 = createPerson();
+    person1->print();
+    person2->print();
 
     return 0;
 }
