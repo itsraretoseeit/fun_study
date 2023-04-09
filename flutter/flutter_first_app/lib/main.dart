@@ -196,7 +196,7 @@ class GeneratorPage extends StatelessWidget {
             ],
           ),
           Spacer(
-            flex: 2,
+            flex: 3,
           )
         ],
       ),
